@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vitagene.readthedocs.io/en/latest/
